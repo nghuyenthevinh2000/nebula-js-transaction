@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "run": "node index"
+  },
+  "dependencies": {
+    "@cosmjs/amino": "^0.28.11",
+    "@cosmjs/proto-signing": "^0.28.11",
+    "@cosmjs/stargate": "^0.28.11",
+    "@nghuyenthevinh2000/nebulajs": "^0.0.1"
+  }
+}
